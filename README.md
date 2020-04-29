@@ -1,2 +1,3 @@
 # hello-world
-sample repo
+Hi There!
+I want to learn git basics
